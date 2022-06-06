@@ -1,4 +1,4 @@
-package project5;
+package project_sa_skew;
 
 public class BruteSuffixArray {
     private String[] text;
